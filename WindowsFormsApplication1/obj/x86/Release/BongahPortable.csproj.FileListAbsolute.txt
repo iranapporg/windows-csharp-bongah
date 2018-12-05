@@ -1,0 +1,15 @@
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\Bongah Portable.exe
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\ChilkatDotNet2.dll
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\System.Data.SQLite.dll
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\System.Data.SQLite.xml
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.alarm.resources
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.frmdetails.resources
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.frmreport.resources
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.frmreports.resources
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.frmsetting.resources
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.MDIParent1.resources
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\BongahPortable.csproj.GenerateResource.Cache
+D:\Current Project\Programming\Windows\Bongah\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Bongah Portable.exe
